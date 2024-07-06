@@ -1,0 +1,65 @@
+[
+  {
+    "title": "StreetPals",
+    "cards": [
+      {
+        "type": "ANIMAL",
+        "title": "Köpek:",
+        "description": "\bBarınma Yerleri:\nSokak köpekleri genellikle çeşitli yerlerde barınabilirler. Bunlar arasında:\n\nBoş arsalar ve inşaat alanları: Yabancı nesnelerin ve molozların arasında sığınabilirler.\nParklar ve yeşil alanlar: Ağaç altları veya çalılıklar gibi doğal barınaklar bulabilirler.\nSokak araları ve kaldırımlar: Araba lastikleri, karton parçaları gibi malzemelerle kendi barınaklarını oluşturabilirler.\n\bBeslenme Yerleri:\nSokak köpekleri yiyecek bulmak için genellikle şu yerlere giderler:\n\nÇöp konteynerleri: Atıklar arasında yiyecek ararlar.\nRestoran çevresi: İnsanlardan düşen yemek artıkları için bu alanları ziyaret ederler.\nPazar yerleri: Tezgahların etrafında düşen sebze ve meyveleri tüketebilirler.",
+        "extraText": "\bGezinti Yerleri:\nSokak köpekleri genellikle belirli alanlarda dolaşırlar:\n\nŞehir merkezleri ve alışveriş caddeleri: İnsanların yoğun olduğu bölgelerde yiyecek ararlar.\nParklar ve oyun alanları: Diğer köpeklerle veya insanlarla etkileşim kurabilecekleri yerlerdir.\nSahil bölgeleri: Su kaynaklarına ulaşmak ve serinlemek amacıyla bu alanları tercih edebilirler.\n\n\bİnsan İle İlişkiler:\nSokak köpekleri genellikle çekingen olsalar da, bazıları insanlarla dostane bir ilişki kurabilir. Bu nedenle, insanlarla etkileşim kurmaya çekinmeyebilirler.\nDüzenli olarak belirli bir bölgede gözlemlenen sokak köpekleri, o bölgedeki insanlarla ve diğer hayvanlarla bir sosyal ağ oluşturabilirler.",
+        "localImageResource": "ic_icon_dog",
+        "urlToSite": "https://www.google.com/"
+      },
+      {
+        "type": "ANIMAL",
+        "title": "Kedi",
+        "description": "\bBarınma Yerleri:\nSokak kedileri genellikle çeşitli yerlerde barınabilirler. Bunlar arasında:\n\nBoş binalar ve terk edilmiş evler: Boş odaları veya köşeleri kullanarak sığınabilirler.\nBahçeler ve yeşil alanlar: Ağaç altları, çalılıklar veya bahçe kulübeleri gibi doğal barınaklar bulabilirler.\nÇatılar ve pencereler: Yüksek yerlere tırmanarak güvenli bir yer bulabilirler.\n\bBeslenme Yerleri:\nSokak kedileri yiyecek bulmak için genellikle şu yerlere giderler:\n\nÇöp konteynerleri: Atıklar arasında yiyecek ararlar.\nRestoran çevresi: İnsanlardan düşen yemek artıkları için bu alanları ziyaret ederler.\nPazar yerleri: Tezgahların etrafında düşen sebze ve meyveleri tüketebilirler.",
+        "extraText": "\bGezinti Yerleri:\nSokak kedileri genellikle belirli alanlarda dolaşırlar:\n\nSokaklar ve ara sokaklar: Sessiz ve güvenli bölgelerde dolaşırlar.\nBahçeler ve avlular: Diğer kedilerle veya insanlarla etkileşim kurabilecekleri yerlerdir.\nÇatılar ve duvarlar: Yüksek yerlerden çevreyi gözlemlemek ve güvenli bir yer bulmak için tercih ederler.\n\n\bİnsan İle İlişkiler:\nSokak kedileri genellikle çekingen olsalar da, bazıları insanlarla dostane bir ilişki kurabilir. Bu nedenle, insanlarla etkileşim kurmaya çekinmeyebilirler.\nDüzenli olarak belirli bir bölgede gözlemlenen sokak kedileri, o bölgedeki insanlarla ve diğer hayvanlarla bir sosyal ağ oluşturabilirler.",
+        "localImageResource": "ic_icon_cat",
+        "urlToSite": "https://www.google.com/"
+      },
+      {
+        "type": "ANIMAL",
+        "title": "Kuş:",
+        "description": "\bBarınma Yerleri:\nSokak kuşları genellikle çeşitli yerlerde barınabilirler. Bunlar arasında:\n\nAğaç kovukları ve kuş yuvaları: Doğal olarak ağaçlarda veya diğer yüksek yerlerde barınabilirler.\nÇatılar ve kiremitler: Yüksek yerlerde güvenli bir yer bulabilirler.\nElektrik telleri ve direkler: Yuva yapmak veya geceyi geçirmek için kullanabilirler.\n\bBeslenme Yerleri:\nSokak kuşları yiyecek bulmak için genellikle şu yerlere giderler:\n\nAğaçlar ve çalılar: Farklı bitkilerde bulunan böcekleri veya meyveleri tüketebilirler.\nParklar ve bahçeler: Toprağın altında bulunan solucanları veya yüzeydeki tohumları avlarlar.\nÇöp konteynerleri: Atıklar arasında yiyecek ararlar.",
+        "extraText": "\bGezinti Yerleri:\nSokak kuşları genellikle belirli alanlarda dolaşırlar:\n\nParklar ve bahçeler: Diğer kuşlarla veya doğal ortamdaki diğer hayvanlarla etkileşim kurabilirler.\nGöletler ve nehir kenarları: Su kaynaklarına ulaşmak ve içmek için bu alanları tercih edebilirler.\nElektrik telleri ve direkler: Yüksek yerlere tırmanarak çevreyi gözlemleyebilirler.\n\n\bİnsan İle İlişkiler:\nSokak kuşları genellikle insanlara karşı çekingen olsalar da, bazıları insanlarla sakin bir şekilde etkileşim kurabilir. Bu nedenle, insanlarla etkileşim kurmaya çekinmeyebilirler.\nDüzenli olarak belirli bir bölgede gözlemlenen sokak kuşları, o bölgedeki insanlarla ve diğer hayvanlarla bir sosyal ağ oluşturabilirler.",
+        "localImageResource": "ic_icon_bird",
+        "urlToSite": "https://www.google.com/"
+      }
+    ]
+  },
+  {
+    "cards": [
+      {
+        "type": "ORGANIZATION",
+        "id": "0",
+        "title": "Haytap (Hayvan Hakları Federasyonu)",
+        "poster": "ic_haytap",
+        "url": "https://www.haytap.org/",
+        "description": "Haytap (Hayvan Hakları Federasyonu), 2010 yılında Türkiye'de hayvan hakları konusundaki farkındalığı artırmak, mevzuatın iyileştirilmesine katkıda bulunmak ve sokak hayvanlarına yardım etmek amacıyla kurulmuştur. Haytap'ın kurucularından biri Avukat Ahmet Kemal Şenpolat'tır.\n\nHaytap'ın kuruluş amacı, hayvanların haklarını savunmak, kötü muameleye karşı mücadele etmek, hayvan hakları konusunda toplumda bilinci artırmak, veteriner hekimlik ve hayvan sağlığı konularında destek sağlamak gibi çeşitli alanlarda faaliyet göstermektir. Haytap, gönüllüler ve hayvanseverler tarafından desteklenen bir federasyondur.\n\nKuruluşun detaylarına ve tarihine ilişkin daha fazla bilgi için, Haytap'ın resmi web sitesini ziyaret edebilir veya doğrudan federasyonla iletişime geçebilirsiniz. Haytap'ın resmi web sitesi: https://www.haytap.org/",
+        "director": "Ahmet Kemal ŞENPOLAT",
+        "year": "2010"
+      },
+      {
+        "type": "ORGANIZATION",
+        "id": "1",
+        "title": "Sokak Hayvanlarını Koruma Derneği (SHKD)",
+        "poster": "ic_shkd",
+        "url": "https://www.shkd.org/",
+        "description": "\"Sokak Hayvanlarını Koruma Derneği (SHKD)\", Türkiye'de sokak hayvanlarının korunması ve haklarının savunulması amacıyla faaliyet gösteren bir sivil toplum kuruluşudur. Dernek, gönüllüler ve hayvanseverler tarafından desteklenmektedir.\n\nSHKD'nin genel amaçları arasında şunlar yer alabilir:\n\nSokak hayvanlarının haklarını savunmak ve korumak.\nSokak hayvanlarına yönelik kötü muamele ve istismarı önlemek.\nSokak hayvanlarının sağlık durumlarını iyileştirmek ve tedavi etmek.\nSokak hayvanlarının barınma ve beslenme ihtiyaçlarına destek sağlamak.\nToplumda hayvan hakları konusunda farkındalık oluşturmak.",
+        "director": "Istanbul Valiliği Il Dernekler Müdürlüğü",
+        "year": "1998"
+      },
+      {
+        "type": "ORGANIZATION",
+        "id": "2",
+        "title": "Türkiye Hayvanları Koruma Derneği (THKD)",
+        "poster": "ic_thkd",
+        "url": "https://www.thkd.org.tr/",
+        "description": " Derneğimizin kurucusu efsanevi hayvan dostu Alice Manning’i ilkeleri, azmi ve prensipleriyle  TÜRKİYE HAYVANLARI KORUMA DERNEĞİ olarak daima sevgi ve hayranlıkla içimizde yaşatıyoruz.  \n\nBugünkü ünvanı ile Türkiye Hayvanları Koruma Derneği (THKD) her ne kadar genç Türkiye Cumhuriyeti’nin ilk birkaç hayır kurumu olarak 6 Mart 1924’te tüzel kişilik kazanmış olsa da Osmanlı İmparatorluğu döneminde 1912 yılında kurulmuş olan İstanbul Himaye-i Hayvanat Cemiyeti’nin devamıdır. O sıralarda hayvanlara yardım edecek bir hayır kurumunun kurulması gereğini gören sivil ve askeri Osmanlı devlet ricali, Alice Manning ve grubu ile birlikte bu derneği kurmuşlardı. ",
+        "director": "Alice Manning",
+        "year": "1998"
+      }
+    ]
+  }
+]

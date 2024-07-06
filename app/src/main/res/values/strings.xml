@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StreetPals</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="string_app_home">Ana Sayfa</string>
+    <string name="string_app_fact">Bilgi Kutusu</string>
+    <string name="string_app_call">Acil Arama</string>
+    <string name="string_app_bagıs_yap">Bağış Yap</string>
+    <string name="string_app_sokak_hayvanlar">Sokak Hayvanları</string>
+    <string name="string_app_alo_153_info_title">Alo 153 Hayvan Hattı:</string>
+    <string name="string_app_alo_153_info_desc">Türkiye\'de, Alo 153 Hayvan Hattı gibi özel hayvan yardım hatları bulunabilir.Bu hattı arayarak sokak hayvanları için yardım talebinde bulunabilirsiniz.</string>
+    <string name="string_app_alo_153">Alo 153</string>
+    <string name="string_app_siteye_git">Siteye Git</string>
+    <string name="string_app_director">"Kurucu: "</string>
+    <string name="string_app_year">"Kuruluş yılı: "</string>
+    <string name="string_app_warning">Warning</string>
+    <string name="string_app_exit">Do You want to exit ?</string>
+    <string name="string_app_no_permission">Çağrı yapma izni verilmedi.</string>
+    <string name="string_app_ara">ARA</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+        android:icon="@drawable/icon_home"
+        android:title="@string/string_app_home" />
+    <item
+        android:id="@+id/factFragment"
+        android:enabled="true"
+        android:icon="@drawable/icon_paw"
+        android:title="@string/string_app_fact" />
+    <item
+        android:id="@+id/callFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_call"
+        android:title="@string/string_app_call" />
+
+
+</menu>
