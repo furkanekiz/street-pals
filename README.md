@@ -1,6 +1,6 @@
 # StreetPals
 
-![Splash Screen]([streetpals-1](https://github.com/furkanekiz/street-pals/assets/96376500/67af20a6-b35b-40b1-b14a-fd233be2c329))
+![Splash Screen](https://github.com/furkanekiz/street-pals/assets/96376500/67af20a6-b35b-40b1-b14a-fd233be2c329)
 
 ## Description
 
